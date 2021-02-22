@@ -1,2 +1,1 @@
-# mcserver
-minecraft server
+와! 마크 아시는구나! 장 재 밋 습 니 다
